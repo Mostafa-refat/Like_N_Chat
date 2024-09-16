@@ -1,4 +1,4 @@
-# Click_N_Shop
+# Like_N_Chat
 A Simple Social App (Flutter App with FIREBASE) using Cubit statemanagement Dio packages.
 
 ## Features
