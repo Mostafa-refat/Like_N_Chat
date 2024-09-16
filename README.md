@@ -1,16 +1,27 @@
-# social_app
+# Click_N_Shop
+A Simple Social App (Flutter App with FIREBASE) using Cubit statemanagement Dio packages.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+  ##### User Authentication : Login, Register and manage user profile.   
+  ##### Posting : post what u think about (with or without a picture). 
+  ##### Feeds Screen : Showing every new post uploaded. Like and comment on those posts.
+  ##### Chat : Real-time messaging with friends.  
+    
 
-This project is a starting point for a Flutter application.
+## Used Packages:
 
-A few resources to get you started if this is your first Flutter project:
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [bloc](https://pub.dev/packages/bloc)
+- [dio](https://pub.dev/packages/dio)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
+- [image_picker](https://pub.dev/packages/image_picker)
+- [fluttertoast](https://pub.dev/packages/fluttertoast)
+### FIREBASE PACKAGES USED:
+- [firebase_core](https://pub.dev/packages/firebase_core)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
+- [firebase_storage](https://pub.dev/packages/firebase_storage)
+- [firebase_analytics](https://pub.dev/packages/firebase_analytics)
+- [firebase_messaging](https://pub.dev/packages/firebase_messaging)
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
