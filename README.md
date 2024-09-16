@@ -1,5 +1,5 @@
 # Like_N_Chat
-A Simple Social App (Flutter App with FIREBASE) using Cubit statemanagement Dio packages.
+A Simple Social App (Flutter App) using Cubit statemanagement and FIREBASE services.
 
 ## Features
 
